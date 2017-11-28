@@ -1,5 +1,5 @@
 {
-    "name": "qiniu/php-sdk",
+    "name": "tang/qiniu",
     "type": "library",
     "description": "Qiniu Resource (Cloud) Storage SDK for PHP",
     "keywords": ["qiniu", "storage", "sdk", "cloud"],
